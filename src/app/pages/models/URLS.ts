@@ -1,6 +1,6 @@
 export class URLS{
     //prod
-    public static cloud_provider = "https://my-cloud-project.herokuapp.com";
+    public static cloud_provider = "https://server-cloud-heroku.herokuapp.com";
     //public static cloud_provider = "http://cloud-env.vmfc4stcsn.eu-west-1.elasticbeanstalk.com/";
     //dev
     //public static cloud_provider = "";
